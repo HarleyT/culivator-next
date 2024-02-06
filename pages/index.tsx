@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to the real world
+          Welcome to the real world!
         </h1>
 
         <p className={styles.description}>
